@@ -1,6 +1,6 @@
 # Organisation_language_twitter
 
-This dataset contains tweets from members of 5 different organisations employed to analyse if they use specifical languages differentiable among organisations. For the dataset, we gathered organisations that have several members and from diverse fields:
+This dataset contains tweets from members of 5 different organisations employed to analyse if they use specific languages differentiable among organisations. For the dataset, we gathered organisations that have several members and from diverse fields:
 
 - Organisation A is an NGO focused on humans’ rights.
 - Organisation B is a multinational aerospace corporation.
